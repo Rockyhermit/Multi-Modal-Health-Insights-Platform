@@ -236,8 +236,10 @@ The LLM layer acts as a high-level decision-making system that:
 
 ## Usage Example
 
-<video src="https://github.com/Rockyhermit/Multi-Modal-Health-Insights-Platform/raw/main/Input/demo_video.mp4" controls="controls" muted="muted" width="800">
-</video>
+
+https://github.com/user-attachments/assets/0208febe-3c8a-4ef2-a5bc-e55602af667f
+
+
 
 
 ## Implementation Highlights
